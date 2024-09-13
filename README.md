@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ducdungpham7
-- 👀 I’m interested in Continuous Learning
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps stuffs
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps as Fresher
+- 💞️ I’m looking to collaborate on DevOps Learning
 - 📫 How to reach me ...
 - 😄 Pronouns: Dom
 - ⚡ Fun fact: Nothing special
